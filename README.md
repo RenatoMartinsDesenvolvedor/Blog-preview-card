@@ -29,7 +29,7 @@ This HTML & CSS-only challenge is a perfect project for beginners getting up to 
 
 ### Links
 
-- Solution URL: (https://www.frontendmentor.io/home/my-challenges?tab=completed)
+- Solution URL: (https://www.frontendmentor.io/solutions/html-and-css-Xw6Y_C59mh)
 - Live Site URL: (https://github.com/RenatoMartinsDesenvolvedor/Blog-preview-card)
 
 ## My process
