@@ -72,5 +72,5 @@ This helped me better understand the media queries feature and learn more how to
 
 ## Author
 
-- Website - [Renato Martins] (https://github.com/RenatoMartinsDese nvolvedor/Blog-preview-card)
+- Website - [Renato Martins] (https://github.com/RenatoMartinsDesenvolvedor/Blog-preview-card)
 - Frontend Mentor - [@RenatoMartinsDesenvolvedor](https://www.frontendmentor.io/profile/RenatoMartinsDesenvolvedor)
